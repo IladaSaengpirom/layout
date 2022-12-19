@@ -1,0 +1,81 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    background-color: #fae3c3;
+    padding: 10px 20px 10px 20px;
+}
+.lona{
+    background-color: #ffaaaa;
+    display: flex;
+    padding: 10px;
+}
+.logo{
+    margin-bottom: 5px;
+    padding-left: 5px;
+    flex: 1;
+}
+.nav{
+    padding-right: 5px;
+}
+.headerbanner{
+    background-color: #5fa474;
+    margin-top: 10px;
+    display: flex;
+    height: 100px;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.introtextarea{
+    background-color: #5050bd;
+    margin-top: 10px;
+    display: flex;
+    height: 100px;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    background-color: #d9a2de;
+    display: block;
+    flex: 1;
+    column-gap: 3;
+    height: 300px;
+    margin-top: 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: #d9a2de;
+    display: block;
+    flex: 1;
+    column-gap: 3;
+    height: 300px;
+    margin-top: 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box3{
+    background-color: #d9a2de;
+    display: block;
+    flex: 1;
+    column-gap: 3;
+    height: 300px;
+    margin-top: 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    background-color: #98da80;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
